@@ -1,3 +1,3 @@
-Good morning
-Today is my 2nd devops class
+Good evening
+devops class practice
 It's interesting
